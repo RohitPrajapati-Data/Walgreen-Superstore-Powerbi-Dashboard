@@ -27,9 +27,9 @@ The dashboard helps management monitor KPIs, identify profitable markets, evalua
 ---
 
 ## Dashboard Features
-![Executive_Dashboard](Dashboard_Screenshots/Executive_Dashboard.png)
+![Executive_Dashboard](Executive_Dashboard.png)
 
-![Regional_Dashboard](Dashboard_Screenshots/Regional_Customer_Analysis.png)
+![Regional_Dashboard](Regional_Customer_Analysis.png)
 
 ### Executive Overview
 - Total Sales
